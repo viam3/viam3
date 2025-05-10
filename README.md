@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viam3
-- 👀 I’m interested in ...computer vision and Images
+- 👀 I’m interested in ...coding and development
 - 🌱 I’m currently learning ...pyhton, c++
 - 💞️ I’m looking to collaborate on ...learing skills
 - 📫 How to reach me ...topewritesup@gmail.com
